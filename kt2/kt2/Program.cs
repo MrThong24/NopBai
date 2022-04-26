@@ -14,10 +14,10 @@ namespace kt2
             cat263.eat();
             cat263.makeSound();
             cat263.run();
-            Bird bird = new Bird();
-            bird.eat();
-            bird.makeSound();
-            bird.fly();
+            Bird bird263 = new Bird();
+            bird263.eat();
+            bird263.makeSound();
+            bird263.fly();
             Console.ReadKey();
         }
     }
