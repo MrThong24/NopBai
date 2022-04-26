@@ -34,6 +34,8 @@ namespace kt1
 
                 Console.WriteLine("Pt co 2 nghiem x1={0} , x2={1}: ", x1, x2);
             }
+
+            Console.ReadKey();
         }
     }
 

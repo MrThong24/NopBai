@@ -1,0 +1,8 @@
+E:\HọcKy3\C#\Bt\kt1\kt1\bin\Debug\kt1.exe.config
+E:\HọcKy3\C#\Bt\kt1\kt1\bin\Debug\kt1.exe
+E:\HọcKy3\C#\Bt\kt1\kt1\bin\Debug\kt1.pdb
+E:\HọcKy3\C#\Bt\kt1\kt1\obj\Debug\kt1.csproj.AssemblyReference.cache
+E:\HọcKy3\C#\Bt\kt1\kt1\obj\Debug\kt1.csproj.SuggestedBindingRedirects.cache
+E:\HọcKy3\C#\Bt\kt1\kt1\obj\Debug\kt1.csproj.CoreCompileInputs.cache
+E:\HọcKy3\C#\Bt\kt1\kt1\obj\Debug\kt1.exe
+E:\HọcKy3\C#\Bt\kt1\kt1\obj\Debug\kt1.pdb
